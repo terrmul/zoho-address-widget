@@ -1,0 +1,10 @@
+{
+  "displayName": "Address Importer",
+  "description": "Import addresses from Google Maps to Zoho CRM",
+  "version": "1.0.0",
+  "modules": ["Leads", "Accounts", "Contacts", "Vendors"],
+  "locations": ["DetailView"],
+  "widgetType": "button",
+  "buttonLabel": "Import Address",
+  "buttonIcon": "https://cdn-icons-png.flaticon.com/512/854/854878.png"
+}
